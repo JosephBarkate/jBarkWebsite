@@ -2,8 +2,8 @@ module.exports = {
   siteTitle: "HeroBlog - a GatsbyJS starter", // <title>
   shortSiteTitle: "HeroBlog - GatsbyJS starter", // <title> ending for posts and pages
   siteDescription: "HeroBlog is a GatsbyJS starter.",
-  siteUrl: "https://gatsby-starter-hero-blog.greglobinski.com",
-  pathPrefix: "jBarkWebsite",
+  siteUrl: "https://josephbarkate.com",
+  pathPrefix: "jBarkWebsite/tree/gh-pages",
   siteImage: "preview.jpg",
   siteLanguage: "en",
 
@@ -32,7 +32,7 @@ module.exports = {
 
   // social
   authorSocialLinks: [
-    { name: "github", url: "https://github.com/greglobinski" },
+    { name: "github", url: "https://github.com/josephbarkate" },
     { name: "twitter", url: "https://twitter.com/greglobinski" },
     { name: "facebook", url: "http://facebook.com/greglobinski" }
   ]
