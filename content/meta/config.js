@@ -3,7 +3,7 @@ module.exports = {
   shortSiteTitle: "HeroBlog - GatsbyJS starter", // <title> ending for posts and pages
   siteDescription: "HeroBlog is a GatsbyJS starter.",
   siteUrl: "https://josephbarkate.com",
-  pathPrefix: "jBarkWebsite/tree/gh-pages",
+  pathPrefix: "jBarkWebsite",
   siteImage: "preview.jpg",
   siteLanguage: "en",
 
