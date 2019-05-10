@@ -8,15 +8,15 @@ module.exports = {
   siteLanguage: "en",
 
   /* author */
-  authorName: "greg lobinski",
-  authorTwitterAccount: "greglobinski",
+  authorName: "joseph barkate",
+  authorTwitterAccount: "josephbarkate",
 
   /* info */
-  headerTitle: "greg lobinski",
-  headerSubTitle: "presents another one GatsbyJS starter",
+  headerTitle: "Joseph Barkate",
+  headerSubTitle: "Full-Stack Web Developer",
 
   /* manifest.json */
-  manifestName: "HeroBlog - a GatsbyJS starter",
+  manifestName: "Joseph Barkate - Personal Site",
   manifestShortName: "HeroBlog", // max 12 characters
   manifestStartUrl: "/index.html",
   manifestBackgroundColor: "white",
@@ -33,7 +33,7 @@ module.exports = {
   // social
   authorSocialLinks: [
     { name: "github", url: "https://github.com/josephbarkate" },
-    { name: "twitter", url: "https://twitter.com/greglobinski" },
-    { name: "facebook", url: "http://facebook.com/greglobinski" }
+    { name: "twitter", url: "https://twitter.com/josephbarkate" },
+    { name: "facebook", url: "http://facebook.com/josephbarkate" }
   ]
 };
