@@ -1,30 +1,30 @@
 ---
 title: Dell Standard Price List
-category: "testimonies"
+category: "projects"
 cover: dell-spl.jpg
 author: Joseph Barkate
 ---
 
-:100: Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
-
+As a senior developer on the origin team of Dell’s standard price list application Joseph worked on a client facing application commonly used to sell to large Dell distributers.  While working there he used Angular with TypeScript for frond-end and .NET core for back-end work. He wrote APIs to communicate with both the MongoDB and SQL databases and wrote processors to consume multiple Dell services with RabbitMQ and NSB.  
 ![unsplash.com](./dell-spl.jpg)
 
-### Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue.
+### Experiance with older technologies and migration into new frameworks.
 
-Praesent accumsan odio in ante ullamcorper id pellentesque mauris rhoncus. Duis vitae neque dolor. Duis sed purus at eros `bibendum cursus` nec a nulla. Donec turpis quam, ultricies id pretium sit amet, gravida eget leo.
+Joseph also contributed to the development team’s migration to Pivotal Cloud Foundry from Octopus deploy. While on the team Joseph rewrote/refactored javascript into typescript for the essentail rewrite from an outdate AngularJs to Angular 7.  Throughtout the sprints and refactoring Joseph worked closely with project owners to understand buisness requirements in order to write efficient readibly unit tests for both .Net and AngularJS/7 components.  This coordination similarly took place with SDET to define stories definition of done and to write end to end regression tests. By working on an Agile team Joseph voulenteered to write end to end tests using selenium when SDETs were swamped with regression tests usually near releases.
+
 
 ```javascript
-import { createMuiTheme } from "material-ui/styles";
-import Color from "color";
+import { Bootstrap } from "~bootstrap/scss/bootstrap";
+import { Translate } from "translate";
 import colors from "./colors";
 ```
 
-Proin ornare ligula eu tellus tempus elementum. Aenean bibendum iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.
+For user interface deisgns Joseph worked alongside Dell's UX team to create responsive components using custom in house components, themes, and colors.  Being a global facing application, multiple countries/regions with multiple languages required translation for product information and descriptions using translation services. 
 
-### Donec hendrerit laoreet risus eget adipiscing.
+### Team player with Agile mindset.
 
-Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum. Nulla vel aliquet libero. Vestibulum eget felis nec purus commodo convallis. Aliquam erat volutpat.
+Dell's Standard Price List team employed a conitnuous integration and continuous deployment pipeline bi-sprintly.  This translate to deployements into production every month.  While Dell's Price List is a Global clientfacing application, the number one region of buisness for the application was North America meaning pushes to prodcution always occured off standard work hours.  For release readiness Joseph was required to provide support off hours and volenteered for off hour health checks of databases and messaging systems.
 
-![test](./dell-spl.jpg)
+![test](./dell-signin.png)
 
-Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
+Seen above is another area Joseph worked on, user authentication.  Different customers from different regions have preferences set for how their preference on how they want to view the price list.  The preferences includes language, currency and product history.
