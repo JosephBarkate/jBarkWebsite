@@ -2,9 +2,7 @@
 title: footnote
 ---
 
-* it's a demo site of the [gatsby-starter-hero-blog](https://github.com/greglobinski/gatsby-starter-hero-blog)
-* built by [greg lobinski](https://www.greglobinski.com)
-* Check [Front-end web development with Greg](https://dev.greglobinski.com)
-* delivered by [Netlify](https://www.netlify.com/)
-* photos by [unsplash.com](https://unsplash.com)
-* graphic by [pixabay.com](https://pixabay.com)
+* Personal web development site of [Joseph Barkate](https://github.com/josephbarkate)
+* Check [My LinkedIn](www.linkedin.com/in/joseph-barkate)
+* delivered by [Github Pages](https://pages.github.com/)
+* Theme guide by [greg lobinski]()

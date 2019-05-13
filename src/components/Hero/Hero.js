@@ -10,7 +10,7 @@ const Hero = props => {
     <React.Fragment>
       <section className="hero">
         <h1>
-          This is a demo site of&nbsp;the <strong>heroBlog</strong> GatsbyJS starter
+          <strong>Joseph Barkate</strong> <br/> Full-Stack Developer
         </h1>
         <button onClick={scrollToContent} aria-label="scroll">
           <FaArrowDown />
@@ -39,6 +39,7 @@ const Hero = props => {
           font-size: ${theme.hero.h1.size};
           margin: ${theme.space.stack.l};
           color: ${theme.hero.h1.color};
+          text-shadow: ${theme.hero.h1.outline};
           line-height: ${theme.hero.h1.lineHeight};
           text-remove-gap: both 0 "Open Sans";
 

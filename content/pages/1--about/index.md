@@ -2,26 +2,33 @@
 title: About
 ---
 
-This is a demo site of the [HeroBlog](https://github.com/greglobinski/gatsby-starter-hero-blog), a [GatsbyJS](https://www.gatsbyjs.org/) starter.
+Software engineer valued for driving quality and consistency throughout every phase of a software development projects.  Advanced Angular UI design knowledge combined with a .NET framework background used synergistically to convert a software concept into a well-polished product.  Exhibits leadership through managing multiple offshore teams and leading scrum standups and ceremonies. 
 
-### Features:
 
-* Easy editable content in **Markdown** files (posts, pages and parts)
-* **CSS** with `styled-jsx` and `PostCSS`
-* **SEO** (sitemap generation, robot.txt, meta and OpenGraph Tags)
-* **Social** sharing (Twitter, Facebook, Google, LinkedIn)
-* **Comments** (Facebook)
-* **Images** lazy loading and `webp` support (gatsby-image)
-* Post **categories** (category based post list)
-* Full text **searching** (Algolia)
-* **Contact** form (Netlify form handling)
-* **RSS** feed
-* 100% **PWA** (manifest.webmanifest, offline support, favicons)
-* Google **Analytics**
-* App **favicons** generator (node script)
-* Easy customizable base **styles** via `theme` object generated from `yaml` file (fonts, colors, sizes)
-* React **v.16** (gatsby-plugin-react-next)
-* **Components** lazy loading (social sharing)
-* **ESLint** (google config)
-* **Prettier** code styling
-* Webpack `BundleAnalyzerPlugin`
+## Skills and Competencies:
+
+#Languages
+
+* **Angular** 2-7 & AngularJS
+* **.NET Core** & .NET Framework 4
+* **Javascript** & Typescript
+* **C#**
+* JQuery / RxJS
+* Jasmine / Karma
+* Python
+* Matlab
+
+#Frameworks / DB / Methodologies 
+* **Github** / Gitlab / Bitbucket / TFS
+* **Agile** / Kanban / Waterfall
+* MS **SQL** / MySQL
+* **MongoDB**
+* JSON / XML / SOAP
+* JIRA / Team Foundry Server
+* Node.js
+* NPM / Gulp / Grunt / Bower
+* Octopus Deploy
+* TeamCity
+* Pivotal Cloud Foundry (PCF)
+* TDD / BDD
+

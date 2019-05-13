@@ -35,11 +35,17 @@ size:
   radius:
     default: 10px
     small: 5px
+#SHADOW
+text-shadow: &shadow -1px -1px 0 '#000',
+    1px -1px 0 '#000',
+    -1px 1px 0 '#000',
+    1px 1px 0 '#000'
 # COLOR
 color:
   # color options
   neutral:
     white: &color-white '#ffffff'
+    purple: &color-purple '#737decb3'
     gray:
       a: &color-gray-1 '#fafaf9'
       b: &color-gray-2 '#f3f2f2'
@@ -130,12 +136,13 @@ icon:
   color: *color-brand-primary
 
 
-# COMPONENT TOKENS
+# COMPONENT TOKENS , 1px -1px 0 ##5281df4d, -1px 1px 0 ##5281df4d, 1px 1px 0 ##5281df4d
 hero:
   h1:
     size: *font-size-xxl
     color: *color-white
     lineHeight: *font-line-height-xs
+    outline: '-1px -1px 0 #5281df4d, 1px 1px 0 #5281df4d'
   background: 'linear-gradient(0deg, #E0306E, #6438B5)'
 blog:
   h1:
