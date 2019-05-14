@@ -1,19 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url> <loc>https://josephbarkate.com/category/projects/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://josephbarkate.com/category/testimonies/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://josephbarkate.com/category/sayings/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://josephbarkate.com/Dell-SPL/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://josephbarkate.com/Whole-Foods/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://josephbarkate.com/CUC/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://josephbarkate.com/Charles-Schwab/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://josephbarkate.com/there-are-only-two/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://josephbarkate.com/imperfection-is-beauty/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://josephbarkate.com/i-am-so-clever/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://josephbarkate.com/people-will-forget/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://josephbarkate.com/you-only-live-once/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://josephbarkate.com/be-who-you-are/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://josephbarkate.com/two-things-are-infinite/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://josephbarkate.com/Baylor-Research/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://josephbarkate.com/Fallas-Automation/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://josephbarkate.com/draft-post/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://josephbarkate.com/terms/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://josephbarkate.com/privacy/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
