@@ -1,23 +1,28 @@
 ---
 title: Charles Schwab My Profile web page
+category: "projects"
 cover: charles-schwab.jpg
 author: joseph barkate
 ---
 
-Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, [bibendum](http://google.com) eu pulvinar vel, sodales vitae dui.
+As an associate developer on the retail web technologies team at Charles Schwab Joseph worked on the Angular application development of the big-web customer facing [My Profile](https://client.schwab.com/Apps/service/myprofile/#/contactinformation) page.
 
 ![unsplash.com](./charles-schwab.jpg)
 
-Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
+Joseph developed in an Agile BDD environment involving two week sprints, daily standups and communication with project owners and usability testing with customers.  While working as a developer, Joe was tasked with assuming authority over and closing stories which included developing reusable components, directives, routes, services and unit tests in the Angular application. 
 
-Fusce a metus eu diam varius congue nec nec sapien. Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec.
+Several of Joseph’s components and directives were contributed back to Charles Schwab’s core reusable code base with included documentation to be used by other RWT teams.  In the Agile environment Joseph developed unit tests using the framework Jasmin and Karma to accomplish a 90% unit test code coverage.  Joseph has also exhibited leadership and presentation skills through leading several standups and retrospective, grooming and planning sessions. Mr. Barkate met and exceeded the expectations of his product manager by pushing to pre-production and production environments on schedule to deliver the software product requirements encompassed in the original contract. 
 
-> Proin ornare ligula eu tellus tempus elementum. Aenean bibendum iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.
+## Accomplishments and Responsbilities
+* Developed important core security service and directives for financial safety in an Angular application.
+* Led daily stand-ups and retrospective, grooming and planning sessions in an agile environment.
+* Contributed to Charles Schwab core re-usable code base.
+* Developed an efficient code base that could handle performance testing of over 100,000 users.
 
-Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam porttitor, erat sit amet venenatis luctus, augue libero ultrices quam, ut congue nisi risus eu purus. Cras semper consectetur elementum.
-
-### Cras semper consectetur elementum
-
-Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
-
-Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
+## Project Technologies/ Products
+* Angular 2 & 4
+* Typescript / Javascript
+* CSS / HTML
+* Jasmine / Karma
+* Ruby
+* Genkins

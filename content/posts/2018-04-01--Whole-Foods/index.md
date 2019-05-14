@@ -1,30 +1,27 @@
 ---
 title: Whole Foods S.L.A.W. Project
-category: "testimonies"
+category: "projects"
 cover: whole-foods-market.jpg
 author: joseph barkate
 ---
 
-Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
+Development work on Whole Food's sign publishing application which allows quick pricing changes for markets across the United States to keep a competitive price point for every region.
 
 ![unsplash.com](./whole-foods-market.jpg)
 
-Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst.
 
-Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec. Integer gravida nisi ut magna mollis molestie. Nullam pharetra accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.
+### Production push and polish of new automated sign creation application.
 
-### Vestibulum orci tortor, sollicitudin ac euismod non, placerat ac augue.
+For Whole Food's last push to production in a live environment Joseph was pulled on to develop and diagnose potential problems and bug with Whole Food's new product signage application. Using .NET on the back-end with a Lexmark design template for printing Joseph was required to account for the many different characteristics attributed to food products. (Non-GMO, Air-Chilled, Whole Trade, Animal Welfare, price/lb)
 
-Praesent accumsan odio in ante ullamcorper id pellentesque mauris rhoncus. Duis vitae neque dolor. Duis sed purus at eros bibendum cursus nec a nulla. Donec turpis quam, ultricies id pretium sit amet, gravida eget leo.
+Due to wide variety of sign sizing and products Whole Foods offered the sprint schedule involved a very fast fast continuous integration and regression testing to deliver a fully polished product with the time constraints. This involved coordinating tasks in an Agile environment with project owners, developers and testings which required Joseph to wear multiple hats depending on where the bottleneck existed.
 
-Proin ornare ligula eu tellus tempus elementum. . Vestibulum non nibh risus, a scelerisque purus. Ut vel arcu ac tortor adipiscing hendrerit vel sed massa. Fusce sem libero, lacinia vulputate interdum non, porttitor non quam. Aliquam sed felis ligula. Duis non nulla magna.
+## Accomplishments and Responsbilities
+* Quickly integrated with development team to contribute a delivered product in under 3 months.
+* Worked multidisciplinary to prevent bottlenecks in a fast paced CICD enviroment.
+* Oversaw product releases and provided release support at varied hours.
 
-### Aenean bibendum iaculis mi, nec blandit lacus interdum vitae
-
-Nullam eros mi, mollis in sollicitudin non, tincidunt sed enim. Sed et felis metus, rhoncus ornare nibh. Ut at magna leo. Suspendisse egestas est ac dolor imperdiet pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit
-
-### Donec hendrerit laoreet risus eget adipiscing.
-
-Proin suscipit luctus orci placerat fringilla. Suspendisse in urna ligula, a volutpat mauris. Sed enim mi, bibendum eu pulvinar vel, sodales vitae dui. Pellentesque sed sapien lorem, at lacinia urna. In hac habitasse platea dictumst. Vivamus vel justo in leo laoreet ullamcorper non vitae lorem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin bibendum ullamcorper rutrum.
-
-Fusce a metus eu diam varius congue nec nec sapien. Nunc convallis accumsan justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec malesuada vehicula lectus, viverra sodales ipsum gravida nec. Integer gravida nisi ut magna mollis molestie. Nullam pharetra accumsan sagittis. Proin tristique rhoncus orci, eget vulputate nisi sollicitudin et. Quisque lacus augue, mollis non mollis et, ullamcorper in purus. Morbi et sem orci.
+## Project Technologies / Products
+* .NET 4
+* C#
+* Lexmark Template Designer
