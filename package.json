@@ -53,6 +53,9 @@
     "typeface-open-sans": "^0.0.54",
     "yaml-loader": "^0.5.0"
   },
+  "resolutions": {
+    "minipass": "2.7.0"
+  },
   "keywords": [
     "gatsby"
   ],
