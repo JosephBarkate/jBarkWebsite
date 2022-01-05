@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Joseph Barkate - Software Engineer]]></title><description><![CDATA[Joseph Barkate's Software Developer Page]]></description><link>https://josephbarkate.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 05 Jan 2022 22:35:17 GMT</lastBuildDate><item><title><![CDATA[General Motors DealerShip CMS]]></title><description><![CDATA[Full-stack Software Developer facilitating the formation of an international content management system for GM dealerships. Design of both…]]></description><link>https://josephbarkate.com/General-Motors/</link><guid isPermaLink="false">https://josephbarkate.com/General-Motors/</guid><pubDate>Sat, 01 Feb 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Full-stack Software Developer facilitating the formation of an international content management system for GM dealerships. Design of both front and back-end features intended to enhance and accelerate clients’ ability to generate sales leads, capture customer analytics, edit themes, and amplify social media presence through elegant, yet effortless UI. Leadership and development of logging and data aggregation for big data infographics. Aptitude in performance testing optimization permitting reliable, scalable, and efficient applications hosted on PCF instances. Assurance of successful deployments in to live production environments through CICD Agile patterns.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Joseph Barkate - Software Engineer]]></title><description><![CDATA[Joseph Barkate's Software Developer Page]]></description><link>https://josephbarkate.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 05 Jan 2022 23:04:04 GMT</lastBuildDate><item><title><![CDATA[General Motors DealerShip CMS]]></title><description><![CDATA[Full-stack Software Developer facilitating the formation of an international content management system for GM dealerships. Design of both…]]></description><link>https://josephbarkate.com/General-Motors/</link><guid isPermaLink="false">https://josephbarkate.com/General-Motors/</guid><pubDate>Sat, 01 Feb 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Full-stack Software Developer facilitating the formation of an international content management system for GM dealerships. Design of both front and back-end features intended to enhance and accelerate clients’ ability to generate sales leads, capture customer analytics, edit themes, and amplify social media presence through elegant, yet effortless UI. Leadership and development of logging and data aggregation for big data infographics. Aptitude in performance testing optimization permitting reliable, scalable, and efficient applications hosted on PCF instances. Assurance of successful deployments in to live production environments through CICD Agile patterns.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -36,6 +36,41 @@
     &lt;/p&gt;
 &lt;p&gt;Example website above can be found at: &lt;a href=&quot;https://www.cotacchevrolet.com.br/&quot;&gt;https://www.cotacchevrolet.com.br/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;One of over 1000 websites created and managed on South American General Motors dealersites team.  Application primary focus was to act as a content managment system for dealerships in South America to easily allow customization and funcationality for quick online dealership presence.  Primary focus to generate leads and sales through GMs online division to continue growth in the South American market.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/ef246ed0afaeb1330327efee7e191dfb/fdf97/GM-before-after.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 724px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 89.99999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAASABQDASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAAAAECAwX/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAe6SCDVRrEL/AP/EABcQAAMBAAAAAAAAAAAAAAAAAAABERD/2gAIAQEAAQUCWomUpWf/xAAWEQADAAAAAAAAAAAAAAAAAAAAEBH/2gAIAQMBAT8BI//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABUQAQEAAAAAAAAAAAAAAAAAACAx/9oACAEBAAY/AjB//8QAGhAAAwEBAQEAAAAAAAAAAAAAAAERUTFBcf/aAAgBAQABPyFlPBTlPsEU4QTUE2srWPRn/9oADAMBAAIAAwAAABC76Dz/xAAYEQACAwAAAAAAAAAAAAAAAAAAARARIf/aAAgBAwEBPxCjUI//xAAWEQADAAAAAAAAAAAAAAAAAAAAARD/2gAIAQIBAT8QHf/EAB4QAQACAgIDAQAAAAAAAAAAAAEAESFRMWFBscHx/9oACAEBAAE/EEjyqe0uKO3qJGPGoXoha3gqIeA9ZlE1bn60ufaf/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
+        alt=&quot;unsplash.com&quot;
+        title=&quot;&quot;
+        src=&quot;/static/ef246ed0afaeb1330327efee7e191dfb/fdf97/GM-before-after.jpg&quot;
+        srcset=&quot;/static/ef246ed0afaeb1330327efee7e191dfb/e07e9/GM-before-after.jpg 200w,
+/static/ef246ed0afaeb1330327efee7e191dfb/066f9/GM-before-after.jpg 400w,
+/static/ef246ed0afaeb1330327efee7e191dfb/fdf97/GM-before-after.jpg 724w&quot;
+        sizes=&quot;(max-width: 724px) 100vw, 724px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Above is a comparison of a before and after lighthouse score from browser rendering to server-side rendering utilizing Angular Universal.  One of the main accomplishments as a senior full-stack developer was the entire migration of the monolith Angular application to use express to render html on a cloud server and send to end user.  This architectural change was even more impactful considering most South American visitors use mobile devices with slower connection speeds.&lt;/p&gt;
+&lt;p&gt;Not only did this drastically improve performance as seen above but this allowed Google’s search bots to correctly crawl the index file of all 1000+ unique dealer sites by allowing JavaScript to render the SEO tags before being crawled.  This led to higher search index scores which lead to a drastic increase in site traffic and leads created for all South American dealerships, and increasing leads generated by two fold.&lt;/p&gt;
 &lt;h2&gt;Accomplishments and Responsbilities&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Led logging infrastructure and data aggregation for over 2+ Million daily messages to proactively resolve bugs prior to user detection.&lt;/li&gt;
