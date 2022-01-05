@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Joseph Barkate - Software Engineer]]></title><description><![CDATA[Joseph Barkate's Software Developer Page]]></description><link>https://josephbarkate.com</link><generator>RSS for Node</generator><lastBuildDate>Wed, 15 May 2019 19:34:04 GMT</lastBuildDate><item><title><![CDATA[Dell Standard Price List]]></title><description><![CDATA[As a senior developer on the origin team of Dell’s standard price list application Joseph worked on a client facing application commonly…]]></description><link>https://josephbarkate.com/Dell-SPL/</link><guid isPermaLink="false">https://josephbarkate.com/Dell-SPL/</guid><pubDate>Sat, 01 Sep 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;As a senior developer on the origin team of Dell’s standard price list application Joseph worked on a client facing application commonly used to sell to large Dell distributors. While working there he used Angular with TypeScript for frond-end and .NET core for back-end work. He wrote APIs to communicate with both the MongoDB and SQL databases and wrote processors to consume multiple Dell services with RabbitMQ and NSB.
-
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Joseph Barkate - Software Engineer]]></title><description><![CDATA[Joseph Barkate's Software Developer Page]]></description><link>https://josephbarkate.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 05 Jan 2022 22:24:24 GMT</lastBuildDate><item><title><![CDATA[Dell Standard Price List]]></title><description><![CDATA[Full-stack Software Developer facilitating the formation of an international content management system for GM dealerships. Design of both…]]></description><link>https://josephbarkate.com/General-Motors/</link><guid isPermaLink="false">https://josephbarkate.com/General-Motors/</guid><pubDate>Sat, 01 Feb 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Full-stack Software Developer facilitating the formation of an international content management system for GM dealerships. Design of both front and back-end features intended to enhance and accelerate clients’ ability to generate sales leads, capture customer analytics, edit themes, and amplify social media presence through elegant, yet effortless UI. Leadership and development of logging and data aggregation for big data infographics. Aptitude in performance testing optimization permitting reliable, scalable, and efficient applications hosted on PCF instances. Assurance of successful deployments in to live production environments through CICD Agile patterns.&lt;/p&gt;
+&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/12d57e1aa0b6ca210a87f33b2f00377f/bff7b/dell-spl.jpg&quot;
+    href=&quot;/static/af6fde329eb9a0683c02a5f764881f71/0f529/GM-HomePage.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -14,18 +14,81 @@
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 69.23736075407027%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAIBBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHsqWYof//EABgQAAMBAQAAAAAAAAAAAAAAAAADEwIg/9oACAEBAAEFAp4JrJr4/8QAFhEAAwAAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/AYiI/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQIBAT8Bqv/EABgQAAMBAQAAAAAAAAAAAAAAAAACMiCR/9oACAEBAAY/ApUleErj/8QAFxAAAwEAAAAAAAAAAAAAAAAAAAEQ8f/aAAgBAQABPyHOhMoQ5//aAAwDAQACAAMAAAAQMM//xAAVEQEBAAAAAAAAAAAAAAAAAAAAYf/aAAgBAwEBPxCST//EABYRAAMAAAAAAAAAAAAAAAAAAAARUf/aAAgBAgEBPxBqNT//xAAdEAEAAQMFAAAAAAAAAAAAAAABABEhQWFxgZHx/9oACAEBAAE/EBb1tzDN1p5WXJpHd4glMz//2Q==&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 65.49999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAA7DAAAOwwHHb6hkAAADT0lEQVQ4y62T7U+bZRTGHxP/g8VhjMzhVN4qrN1KoUVkFCiUlpa+QctTgZVudJuD0WYKwnCUt7GRMVAXEv3kolmyD37zLzA42XBzWynrLINJKVvU6jIIrz+fNtG/wJNcOfe573Nf93Vyzi0sP4nyePE3ootxVldXWYnFiK+sEFteZllCLCatY8upsySePntGfPUpfz9/Tjg8z4NQiPmVCH/8+XvqrpCjOYK8REt5TS0mcx01ej2mWiP1NjPOeguNLgei04LdUoPZUI7DUkWDTY/oMOD7wMCHLSZOt1ppFk20BwIIr72xD7lKw8jFUQYGBzjj76Q/2M/ExDjDQ0FOnfIxNXUVu93GgQMZZGe+jSwnC8XBPNQqJYUFBRQVqlFKHO5mD0KxKg9PaxvBgWH6+kck4nEGh8c4H7zA8MUrjE9O0ds3QLFUheY9LQ2uJpyNbhqcIharneNtJ/Ae82EwWug804mglGejUh/BYbcy2tPMpT4v5wMuhrpauNDjYWq0HZ9XJF9RSEVlFX5/gI6ODkwmExq1BlejyEnfScrKq/F4jyOUqBXIDxej15Ux6K9jMtjKWI+by31H+WzAy6VekRa3DV2lDpvViii6sVpt7NnzCnv3ppGW9irv5srQG83097YjFBUoeCtLQaZMxWFNNS1tASoMLvR1Tbg8HRTr6qmosUoNsuN0uigpeZ/09H2kv56OILwk4WWUhcVUGq1cGZGakvHmOzQa5Ex06bj8UTVfnDMz+YmRq59Kantr+bzPTPexUjRFBeTny1OqyrVluEURd6ODc90BRsaGCHx8muHgWYT9+zMoU8uoKZVhKMvHqD2IufIQliolDoOKJpsaj1VOaVEOhxR5ZGVnkpubhU6npcvvpVvC2cBRnA3VnGiXFIbDYUJzEWZu/8IPP95iZvYet+88YPZf3A1J/j5z0hDPP4wQnn+Y8sl4+uYM0z/dYvbne9y5e5/owgIC/7MJ29vbJJG06embfH3tW36NRonH49KAj3Dtm+tsbm4SiUS4fuMGj5eW2Fxf57vJCb7/6kvWX7xgd3eXnZ2dVJ6QDJJI2opEsri4RCKRYG1tjVBoLvVX1yWC5F6ypETir5SAhUePeCI9vLGx8Z+6ra0t/gFDP6/687a1MAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;unsplash.com&quot;
         title=&quot;&quot;
-        src=&quot;/static/12d57e1aa0b6ca210a87f33b2f00377f/a296c/dell-spl.jpg&quot;
-        srcset=&quot;/static/12d57e1aa0b6ca210a87f33b2f00377f/f544b/dell-spl.jpg 200w,
-/static/12d57e1aa0b6ca210a87f33b2f00377f/41689/dell-spl.jpg 400w,
-/static/12d57e1aa0b6ca210a87f33b2f00377f/a296c/dell-spl.jpg 800w,
-/static/12d57e1aa0b6ca210a87f33b2f00377f/bff7b/dell-spl.jpg 1167w&quot;
+        src=&quot;/static/af6fde329eb9a0683c02a5f764881f71/5a190/GM-HomePage.png&quot;
+        srcset=&quot;/static/af6fde329eb9a0683c02a5f764881f71/772e8/GM-HomePage.png 200w,
+/static/af6fde329eb9a0683c02a5f764881f71/e17e5/GM-HomePage.png 400w,
+/static/af6fde329eb9a0683c02a5f764881f71/5a190/GM-HomePage.png 800w,
+/static/af6fde329eb9a0683c02a5f764881f71/c1b63/GM-HomePage.png 1200w,
+/static/af6fde329eb9a0683c02a5f764881f71/0f529/GM-HomePage.png 1259w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Example website above can be found at: &lt;a href=&quot;https://www.cotacchevrolet.com.br/&quot;&gt;https://www.cotacchevrolet.com.br/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;One of over 1000 websites created and managed on South American General Motors dealersites team.  Application primary focus was to act as a content managment system for dealerships in South America to easily allow customization and funcationality for quick online dealership presence.  Primary focus to generate leads and sales through GMs online division to continue growth in the South American market.&lt;/p&gt;
+&lt;h2&gt;Accomplishments and Responsbilities&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Led logging infrastructure and data aggregation for over 2+ Million daily messages to proactively resolve bugs prior to user detection.&lt;/li&gt;
+&lt;li&gt;Led performance team’s load and endurance tests to optimize application efficiency / scalability for 100,000+ users in peak performance hours.&lt;/li&gt;
+&lt;li&gt;Spearheaded sprint ceremonies and communication with project owners to define technical requirements.&lt;/li&gt;
+&lt;li&gt;Assisted in new hire onboarding and the mentorship of Jr Developers through code reviews and paired programming.&lt;/li&gt;
+&lt;li&gt;Production / release support for over 900 dealer web application across globe.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; Bootstrap &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;~bootstrap/scss/bootstrap&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; Translate &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;translate&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; colors &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;./colors&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2&gt;Project Technologies / Products&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Angular 13&lt;/li&gt;
+&lt;li&gt;React&lt;/li&gt;
+&lt;li&gt;Express / Node.js&lt;/li&gt;
+&lt;li&gt;Redis&lt;/li&gt;
+&lt;li&gt;AngularJS&lt;/li&gt;
+&lt;li&gt;.NET 4 / .NET Core&lt;/li&gt;
+&lt;li&gt;SQL / Postgres&lt;/li&gt;
+&lt;li&gt;C#&lt;/li&gt;
+&lt;li&gt;Typescript / Javascript&lt;/li&gt;
+&lt;li&gt;HTML / CSS / SCSS&lt;/li&gt;
+&lt;li&gt;Pivotal Cloud Foundary&lt;/li&gt;
+&lt;li&gt;Github / Gitlab / SonorQube&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Dell Standard Price List]]></title><description><![CDATA[As a senior developer on the origin team of Dell’s standard price list application Joseph worked on a client facing application commonly…]]></description><link>https://josephbarkate.com/Dell-SPL/</link><guid isPermaLink="false">https://josephbarkate.com/Dell-SPL/</guid><pubDate>Sat, 01 Sep 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;As a senior developer on the origin team of Dell’s standard price list application Joseph worked on a client facing application commonly used to sell to large Dell distributors. While working there he used Angular with TypeScript for frond-end and .NET core for back-end work. He wrote APIs to communicate with both the MongoDB and SQL databases and wrote processors to consume multiple Dell services with RabbitMQ and NSB.
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/12d57e1aa0b6ca210a87f33b2f00377f/2edea/dell-spl.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 69%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAdm0hR//xAAXEAADAQAAAAAAAAAAAAAAAAAAAhIg/9oACAEBAAEFAoQhCEx//8QAFhEAAwAAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/AYiI/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQIBAT8Bqv/EABgQAAMBAQAAAAAAAAAAAAAAAAACMpEg/9oACAEBAAY/ApUlcJXOP//EABgQAAIDAAAAAAAAAAAAAAAAAAABICHx/9oACAEBAAE/IciHOMo//9oADAMBAAIAAwAAABC47//EABURAQEAAAAAAAAAAAAAAAAAAABh/9oACAEDAQE/EIIP/8QAFhEAAwAAAAAAAAAAAAAAAAAAABFR/9oACAECAQE/EGo1P//EAB0QAAICAgMBAAAAAAAAAAAAAAABEUEhMVFxkfH/2gAIAQEAAT8QW2btRWeI+QFtTQ+XxgThZ//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
+        alt=&quot;unsplash.com&quot;
+        title=&quot;&quot;
+        src=&quot;/static/12d57e1aa0b6ca210a87f33b2f00377f/4b190/dell-spl.jpg&quot;
+        srcset=&quot;/static/12d57e1aa0b6ca210a87f33b2f00377f/e07e9/dell-spl.jpg 200w,
+/static/12d57e1aa0b6ca210a87f33b2f00377f/066f9/dell-spl.jpg 400w,
+/static/12d57e1aa0b6ca210a87f33b2f00377f/4b190/dell-spl.jpg 800w,
+/static/12d57e1aa0b6ca210a87f33b2f00377f/2edea/dell-spl.jpg 1167w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -44,7 +107,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/bcc0a79e7a610db3ec5c1904f648cd5e/d3bfa/dell-signin.png&quot;
+    href=&quot;/static/bcc0a79e7a610db3ec5c1904f648cd5e/471ef/dell-signin.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -56,18 +119,18 @@
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 40.33755274261604%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAIAAAB2/0i6AAAACXBIWXMAAAsSAAALEgHS3X78AAAAh0lEQVQY06WNOwrCUBBFp7Jy0doILkBBsgM3oaCtClZ2NvmARAMm5L28+Tm4ggy5nOnmcGC+Ps9WJ1gcYHl0k92q3bXaXMqtH9AJg2/b5UU5JGRRYhkPEkOIsX43hCiiYqcyMmvPIExKg/5V6xOzQ368wv7+6RN1idposqfc9PisAzNbU5z7ATjZqn4nKmx7AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 40.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAIAAAB2/0i6AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAgUlEQVQY06WNuw3CQBBENyCjaAgAQUA1FABCRogKLJGajyw7AB+6g/3McZSwYvSCSd4MjZfVaLanyZamOzfr02V1bOZVszi4ofxH6BnC9Xb/iKjBRREoptT1vYogZ3huARBMMrjUApc1g0Ou27ipH0n0xTq8WV1yF/jcRoP9Tp35As0DqEta3OleAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;test&quot;
         title=&quot;&quot;
-        src=&quot;/static/bcc0a79e7a610db3ec5c1904f648cd5e/8ff1e/dell-signin.png&quot;
-        srcset=&quot;/static/bcc0a79e7a610db3ec5c1904f648cd5e/9ec3c/dell-signin.png 200w,
-/static/bcc0a79e7a610db3ec5c1904f648cd5e/c7805/dell-signin.png 400w,
-/static/bcc0a79e7a610db3ec5c1904f648cd5e/8ff1e/dell-signin.png 800w,
-/static/bcc0a79e7a610db3ec5c1904f648cd5e/d3bfa/dell-signin.png 1185w&quot;
+        src=&quot;/static/bcc0a79e7a610db3ec5c1904f648cd5e/5a190/dell-signin.png&quot;
+        srcset=&quot;/static/bcc0a79e7a610db3ec5c1904f648cd5e/772e8/dell-signin.png 200w,
+/static/bcc0a79e7a610db3ec5c1904f648cd5e/e17e5/dell-signin.png 400w,
+/static/bcc0a79e7a610db3ec5c1904f648cd5e/5a190/dell-signin.png 800w,
+/static/bcc0a79e7a610db3ec5c1904f648cd5e/471ef/dell-signin.png 1185w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -100,7 +163,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/7dee3531b877ec0e52eeeecabbb36ecb/d96bc/whole-foods-market.jpg&quot;
+    href=&quot;/static/7dee3531b877ec0e52eeeecabbb36ecb/f4353/whole-foods-market.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -112,20 +175,20 @@
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 41.4621409921671%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAIABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAIDBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAdawIA//xAAXEAADAQAAAAAAAAAAAAAAAAAAAQIx/9oACAEBAAEFApFrP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABQQAQAAAAAAAAAAAAAAAAAAABD/2gAIAQEABj8Cf//EABsQAAIBBQAAAAAAAAAAAAAAAAABESFBcZGh/9oACAEBAAE/IUUX2J0UtYP/2gAMAwEAAgADAAAAEHPP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGhABAAIDAQAAAAAAAAAAAAAAAQBhESFBMf/aAAgBAQABPxBTQCPcpYQXdeEaDZZtn//Z&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 41.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAIABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAAB1qBMH//EABcQAAMBAAAAAAAAAAAAAAAAAAABAjH/2gAIAQEAAQUCQto//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAEP/aAAgBAQAGPwJ//8QAGhAAAgIDAAAAAAAAAAAAAAAAAAERIXGx4f/aAAgBAQABPyFVHTYUawf/2gAMAwEAAgADAAAAEHPP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGRABAAMBAQAAAAAAAAAAAAAAAQAhQWER/9oACAEBAAE/EL8ER31CdAtrI0Nmr6z/2Q==&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;unsplash.com&quot;
         title=&quot;&quot;
-        src=&quot;/static/7dee3531b877ec0e52eeeecabbb36ecb/a296c/whole-foods-market.jpg&quot;
-        srcset=&quot;/static/7dee3531b877ec0e52eeeecabbb36ecb/f544b/whole-foods-market.jpg 200w,
-/static/7dee3531b877ec0e52eeeecabbb36ecb/41689/whole-foods-market.jpg 400w,
-/static/7dee3531b877ec0e52eeeecabbb36ecb/a296c/whole-foods-market.jpg 800w,
-/static/7dee3531b877ec0e52eeeecabbb36ecb/c35de/whole-foods-market.jpg 1200w,
-/static/7dee3531b877ec0e52eeeecabbb36ecb/8179c/whole-foods-market.jpg 1600w,
-/static/7dee3531b877ec0e52eeeecabbb36ecb/d96bc/whole-foods-market.jpg 1915w&quot;
+        src=&quot;/static/7dee3531b877ec0e52eeeecabbb36ecb/4b190/whole-foods-market.jpg&quot;
+        srcset=&quot;/static/7dee3531b877ec0e52eeeecabbb36ecb/e07e9/whole-foods-market.jpg 200w,
+/static/7dee3531b877ec0e52eeeecabbb36ecb/066f9/whole-foods-market.jpg 400w,
+/static/7dee3531b877ec0e52eeeecabbb36ecb/4b190/whole-foods-market.jpg 800w,
+/static/7dee3531b877ec0e52eeeecabbb36ecb/e5166/whole-foods-market.jpg 1200w,
+/static/7dee3531b877ec0e52eeeecabbb36ecb/b17f8/whole-foods-market.jpg 1600w,
+/static/7dee3531b877ec0e52eeeecabbb36ecb/f4353/whole-foods-market.jpg 1915w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -155,7 +218,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/a890a7480e0cf4d824c4af2274627110/3570f/cuc.jpg&quot;
+    href=&quot;/static/a890a7480e0cf4d824c4af2274627110/aa597/cuc.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -167,19 +230,19 @@
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 59.43152454780362%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAECAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB2HXOGIP/xAAXEAADAQAAAAAAAAAAAAAAAAAAAhIQ/9oACAEBAAEFApUlSVF3/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFhABAQEAAAAAAAAAAAAAAAAAEAFx/9oACAEBAAY/Am6//8QAGhAAAgIDAAAAAAAAAAAAAAAAAAERYSFRgf/aAAgBAQABPyFaEUIoRl0IIP/aAAwDAQACAAMAAAAQL/8A/8QAFhEAAwAAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/EIiI/8QAFhEAAwAAAAAAAAAAAAAAAAAAAAER/9oACAECAQE/EKys/8QAGxAAAgIDAQAAAAAAAAAAAAAAAAERQTFhkfH/2gAIAQEAAT8Qg2WegIRISnBnYkm+iRK+n//Z&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 59.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAIBAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB2JraHFD/xAAYEAADAQEAAAAAAAAAAAAAAAAAAhEBEP/aAAgBAQABBQKKRSKZ3//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABUQAQEAAAAAAAAAAAAAAAAAABCB/9oACAEBAAY/Amv/xAAaEAACAgMAAAAAAAAAAAAAAAAAARFhQVFx/9oACAEBAAE/IVqRUipGfRAkf//aAAwDAQACAAMAAAAQ9P8A/8QAFhEAAwAAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/EIiI/8QAFhEAAwAAAAAAAAAAAAAAAAAAAAER/9oACAECAQE/EKys/8QAHBAAAgICAwAAAAAAAAAAAAAAAREAYRAxkaHh/9oACAEBAAE/EEuTMQIIdmy4Aeu4Bez/2Q==&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;unsplash.com&quot;
         title=&quot;&quot;
-        src=&quot;/static/a890a7480e0cf4d824c4af2274627110/a296c/cuc.jpg&quot;
-        srcset=&quot;/static/a890a7480e0cf4d824c4af2274627110/f544b/cuc.jpg 200w,
-/static/a890a7480e0cf4d824c4af2274627110/41689/cuc.jpg 400w,
-/static/a890a7480e0cf4d824c4af2274627110/a296c/cuc.jpg 800w,
-/static/a890a7480e0cf4d824c4af2274627110/c35de/cuc.jpg 1200w,
-/static/a890a7480e0cf4d824c4af2274627110/3570f/cuc.jpg 1548w&quot;
+        src=&quot;/static/a890a7480e0cf4d824c4af2274627110/4b190/cuc.jpg&quot;
+        srcset=&quot;/static/a890a7480e0cf4d824c4af2274627110/e07e9/cuc.jpg 200w,
+/static/a890a7480e0cf4d824c4af2274627110/066f9/cuc.jpg 400w,
+/static/a890a7480e0cf4d824c4af2274627110/4b190/cuc.jpg 800w,
+/static/a890a7480e0cf4d824c4af2274627110/e5166/cuc.jpg 1200w,
+/static/a890a7480e0cf4d824c4af2274627110/aa597/cuc.jpg 1548w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -216,7 +279,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/3b0301f90edd75a617c477c6251c2e02/c9a11/charles-schwab.jpg&quot;
+    href=&quot;/static/3b0301f90edd75a617c477c6251c2e02/9221f/charles-schwab.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -228,18 +291,18 @@
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 66.44549763033176%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEDBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHXdmkCwv8A/8QAFxAAAwEAAAAAAAAAAAAAAAAAAAITIP/aAAgBAQABBQKSEUJJj//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABkQAAMAAwAAAAAAAAAAAAAAAAACMgEgkf/aAAgBAQAGPwKVJXhONP/EABoQAAICAwAAAAAAAAAAAAAAAAABENERITH/2gAIAQEAAT8hTaoZgrEtCH0//9oADAMBAAIAAwAAABAMD//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAEDAQE/EIf/xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAgEBPxCn/8QAHRAAAgIBBQAAAAAAAAAAAAAAAAERITEQQXGRof/aAAgBAQABPxBq2+Yy2uoYfhGWnYwWl//Z&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 66.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEDBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHXdmkCov8A/8QAGBAAAwEBAAAAAAAAAAAAAAAAAAITARD/2gAIAQEAAQUCkhJCad0//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGRAAAgMBAAAAAAAAAAAAAAAAADIBApEg/9oACAEBAAY/AlrgtcFjj//EABoQAAICAwAAAAAAAAAAAAAAAAABEBEhMdH/2gAIAQEAAT8hTInKuZWI2P/aAAwDAQACAAMAAAAQBM//xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAwEBPxCH/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8Qp//EABwQAQABBAMAAAAAAAAAAAAAAAEAEBEhQWGRof/aAAgBAQABPxBNXmbJeydCOL4YLbUMFD//2Q==&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;unsplash.com&quot;
         title=&quot;&quot;
-        src=&quot;/static/3b0301f90edd75a617c477c6251c2e02/a296c/charles-schwab.jpg&quot;
-        srcset=&quot;/static/3b0301f90edd75a617c477c6251c2e02/f544b/charles-schwab.jpg 200w,
-/static/3b0301f90edd75a617c477c6251c2e02/41689/charles-schwab.jpg 400w,
-/static/3b0301f90edd75a617c477c6251c2e02/a296c/charles-schwab.jpg 800w,
-/static/3b0301f90edd75a617c477c6251c2e02/c9a11/charles-schwab.jpg 1055w&quot;
+        src=&quot;/static/3b0301f90edd75a617c477c6251c2e02/4b190/charles-schwab.jpg&quot;
+        srcset=&quot;/static/3b0301f90edd75a617c477c6251c2e02/e07e9/charles-schwab.jpg 200w,
+/static/3b0301f90edd75a617c477c6251c2e02/066f9/charles-schwab.jpg 400w,
+/static/3b0301f90edd75a617c477c6251c2e02/4b190/charles-schwab.jpg 800w,
+/static/3b0301f90edd75a617c477c6251c2e02/9221f/charles-schwab.jpg 1055w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
@@ -267,7 +330,7 @@
 &lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Intelligent Algorithms for Power Amplifier Design.]]></title><description><![CDATA[Baylor’s Wireless and Microwave Communication Systems (WMCS) lab wanted a way to view three power amplifier design characteristics at the…]]></description><link>https://josephbarkate.com/Baylor-Research/</link><guid isPermaLink="false">https://josephbarkate.com/Baylor-Research/</guid><pubDate>Thu, 01 May 2014 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/4496b29ff39eacd8358bca04f51c59e3/d90bc/work-station.jpg&quot;
+    href=&quot;/static/4496b29ff39eacd8358bca04f51c59e3/dd9aa/work-station.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -279,17 +342,17 @@
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 67.96536796536797%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFA//EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAFXSupE8eD/xAAZEAACAwEAAAAAAAAAAAAAAAABAgADEgT/2gAIAQEAAQUCW/ULmN0MCaUAOXGK2n//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAcEAACAgIDAAAAAAAAAAAAAAAAAREhAjESMmH/2gAIAQEABj8CvBFRj4kXJMaOtLaJ4H//xAAdEAEAAwABBQAAAAAAAAAAAAABABExYSFBUYGx/9oACAEBAAE/ISWasOnyUyxZ3EoofuLeVAlAPfkm1w2f/9oADAMBAAIAAwAAABAo7//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABYRAQEBAAAAAAAAAAAAAAAAAAABIf/aAAgBAgEBPxCsf//EAB0QAQADAQACAwAAAAAAAAAAAAEAESExQVGBkfD/2gAIAQEAAT8QTCMqq9xUdIi2gKxp7zuRwoMErZ9TQyiC6lsMUvv5jjAnt/eZ/9k=&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 68%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFA//EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAFXSwnE4oh//8QAHBAAAgICAwAAAAAAAAAAAAAAAQIAAwQREhMi/9oACAEBAAEFAlv5QuY2Q2zUgHlx1o8//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAHRAAAgEEAwAAAAAAAAAAAAAAAAERAhIhMUFhkf/aAAgBAQAGPwLNCNqnpIzPpMaJtwuCbD//xAAbEAADAAMBAQAAAAAAAAAAAAAAARExQVEhsf/aAAgBAQABPyGx+SSY+DcmhsCMqwadKjUBE+voyicyf//aAAwDAQACAAMAAAAQmC//xAAVEQEBAAAAAAAAAAAAAAAAAAAAIf/aAAgBAwEBPxBX/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAEh/9oACAECAQE/EKx//8QAGxABAAMBAAMAAAAAAAAAAAAAAQARITFRcYH/2gAIAQEAAT8Q0mWAR3HHTYFWkF7a9O5ESYwcWTf5QF5GNiXur/YY1TyM/9k=&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;unsplash.com&quot;
         title=&quot;&quot;
-        src=&quot;/static/4496b29ff39eacd8358bca04f51c59e3/d90bc/work-station.jpg&quot;
-        srcset=&quot;/static/4496b29ff39eacd8358bca04f51c59e3/f544b/work-station.jpg 200w,
-/static/4496b29ff39eacd8358bca04f51c59e3/41689/work-station.jpg 400w,
-/static/4496b29ff39eacd8358bca04f51c59e3/d90bc/work-station.jpg 462w&quot;
+        src=&quot;/static/4496b29ff39eacd8358bca04f51c59e3/dd9aa/work-station.jpg&quot;
+        srcset=&quot;/static/4496b29ff39eacd8358bca04f51c59e3/e07e9/work-station.jpg 200w,
+/static/4496b29ff39eacd8358bca04f51c59e3/066f9/work-station.jpg 400w,
+/static/4496b29ff39eacd8358bca04f51c59e3/dd9aa/work-station.jpg 462w&quot;
         sizes=&quot;(max-width: 462px) 100vw, 462px&quot;
       /&gt;
     &lt;/span&gt;
@@ -304,7 +367,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/1c44c80d15f100092865db007952c7ea/93e91/pub.jpg&quot;
+    href=&quot;/static/1c44c80d15f100092865db007952c7ea/14007/pub.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -316,17 +379,17 @@
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 88.14432989690721%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAASABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAIDBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAe5NSaAkFg//xAAYEAEAAwEAAAAAAAAAAAAAAAABABAxEf/aAAgBAQABBQJWdYY0Y6V//8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAFBABAAAAAAAAAAAAAAAAAAAAMP/aAAgBAQAGPwIf/8QAGRAAAwADAAAAAAAAAAAAAAAAAAEhEBEg/9oACAEBAAE/IVHMdUPTZXC//9oADAMBAAIAAwAAABAzwDz/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/EB//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/EB//xAAcEAEBAQACAwEAAAAAAAAAAAABABEhkTFhcbH/2gAIAQEAAT8QJBMy9R1JBGLIZ4z5CPAdTQW/CAroPEAGBl//2Q==&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 87.99999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAASABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAIBAwX/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAH3JqTqwToUD//EABgQAQADAQAAAAAAAAAAAAAAAAEAEDER/9oACAEBAAEFAlZ1hGjHSv/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABQQAQAAAAAAAAAAAAAAAAAAADD/2gAIAQEABj8CH//EABkQAAMBAQEAAAAAAAAAAAAAAAABIRARMf/aAAgBAQABPyFRzPxR6dKwJn//2gAMAwEAAgADAAAAEBDIPP/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8QH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8QH//EABsQAQACAwEBAAAAAAAAAAAAAAEAESExkWFx/9oACAEBAAE/EKnSqnociUuyRRmK+QRquRILuAtiFnBArU//2Q==&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;unsplash.com&quot;
         title=&quot;&quot;
-        src=&quot;/static/1c44c80d15f100092865db007952c7ea/93e91/pub.jpg&quot;
-        srcset=&quot;/static/1c44c80d15f100092865db007952c7ea/f544b/pub.jpg 200w,
-/static/1c44c80d15f100092865db007952c7ea/41689/pub.jpg 400w,
-/static/1c44c80d15f100092865db007952c7ea/93e91/pub.jpg 582w&quot;
+        src=&quot;/static/1c44c80d15f100092865db007952c7ea/14007/pub.jpg&quot;
+        srcset=&quot;/static/1c44c80d15f100092865db007952c7ea/e07e9/pub.jpg 200w,
+/static/1c44c80d15f100092865db007952c7ea/066f9/pub.jpg 400w,
+/static/1c44c80d15f100092865db007952c7ea/14007/pub.jpg 582w&quot;
         sizes=&quot;(max-width: 582px) 100vw, 582px&quot;
       /&gt;
     &lt;/span&gt;
@@ -338,7 +401,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/7bcbaf60b20199115844995ba42fcf58/370f9/graph5d.jpg&quot;
+    href=&quot;/static/7bcbaf60b20199115844995ba42fcf58/e6e7b/graph5d.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -350,17 +413,17 @@
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 82.72727272727273%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAARABQDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAIDBAEF/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAECA//aAAwDAQACEAMQAAAB9iuVXSaHGLoiRIH/xAAcEAACAQUBAAAAAAAAAAAAAAABAgMAEBESMyL/2gAIAQEAAQUCLelckwttG3RM1Dzv/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAGREAAQUAAAAAAAAAAAAAAAAAAAIQESEx/9oACAECAQE/AYoVr//EACIQAAECAwkAAAAAAAAAAAAAAAEAEQIhMgMgIjFBUVJxgf/aAAgBAQAGPwIhxS6gxQzCBJB6WtOyspxZcVN/Q1z/xAAeEAACAgICAwAAAAAAAAAAAAABEQAxECFRkUFx8f/aAAgBAQABPyEwqNh38gTtyUTv1CHXPmsI6u+nHcJuSbTviOrEWdsYFnH/2gAMAwEAAgADAAAAENQnAP/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8QH//EABoRAQABBQAAAAAAAAAAAAAAAAERABBBYfD/2gAIAQIBAT8QBh0OqgOL/wD/xAAcEAEBAAIDAQEAAAAAAAAAAAABEQAhQVFhMSD/2gAIAQEAAT8QHBiQkNdznCicJMs5fXY5XAFtUfdmAIIdEBv315irJZhrX3s85xvvcM28fgf/2Q==&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 82.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAARABQDASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAAAAEDAgQF/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAECA//aAAwDAQACEAMQAAAB7FWdfSXoYuxBEg//xAAcEAACAgIDAAAAAAAAAAAAAAABAgMRABMQEiL/2gAIAQEAAQUCLelkJMLdo2vYt5Devn//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAYEQACAwAAAAAAAAAAAAAAAAAAMQECEP/aAAgBAgEBPwGEWe//xAAhEAABAgQHAAAAAAAAAAAAAAABABECAzJRICEiMUJxgv/aAAgBAQAGPwIhxS6g1Q5hAuD0uVNlLr2sg7+sH//EAB4QAAICAgIDAAAAAAAAAAAAAAERADEQIUFxYbHx/9oACAEBAAE/ITBTVljz1AG95Ke+oQ6aeQULlR60+w33vb95dDO6I4F4/9oADAMBAAIAAwAAABBk4AD/xAAWEQADAAAAAAAAAAAAAAAAAAAAARD/2gAIAQMBAT8QFf/EABoRAAICAwAAAAAAAAAAAAAAAAERABBBYfD/2gAIAQIBAT8QAYcjqI6v/8QAHhABAAEEAgMAAAAAAAAAAAAAAREAITFBEFFhkbH/2gAIAQEAAT8QPQEhKaXDdEEA0bptdeGp/QSwN+m5QEArBpZ0/FOmvQyCY9Xqkr1LhzuTjJx//9k=&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;unsplash.com&quot;
         title=&quot;&quot;
-        src=&quot;/static/7bcbaf60b20199115844995ba42fcf58/370f9/graph5d.jpg&quot;
-        srcset=&quot;/static/7bcbaf60b20199115844995ba42fcf58/f544b/graph5d.jpg 200w,
-/static/7bcbaf60b20199115844995ba42fcf58/41689/graph5d.jpg 400w,
-/static/7bcbaf60b20199115844995ba42fcf58/370f9/graph5d.jpg 770w&quot;
+        src=&quot;/static/7bcbaf60b20199115844995ba42fcf58/e6e7b/graph5d.jpg&quot;
+        srcset=&quot;/static/7bcbaf60b20199115844995ba42fcf58/e07e9/graph5d.jpg 200w,
+/static/7bcbaf60b20199115844995ba42fcf58/066f9/graph5d.jpg 400w,
+/static/7bcbaf60b20199115844995ba42fcf58/e6e7b/graph5d.jpg 770w&quot;
         sizes=&quot;(max-width: 770px) 100vw, 770px&quot;
       /&gt;
     &lt;/span&gt;
@@ -383,26 +446,16 @@
 &lt;/ul&gt;
 &lt;h2&gt;Publications&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Thesis&lt;/strong&gt;: &lt;a href=&quot;https://pqdtopen.proquest.com/doc/1805168297.html?FMT=ABS&quot;&gt;Algorithms for Fast Power Amplifier Load Impedance and Input Power Optimization&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&quot;https://ieeexplore.ieee.org/document/7472983&quot;&gt;Fast, Simultaneous Optimization of Power Amplifier Input Power and Load Impedance for Power-Added Efficiency and Adjacent-Channel Power Ratio Using the Power Smith Tube&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&quot;https://ieeexplore.ieee.org/document/7577485&quot;&gt;Comparison of multidimensional circuit optimization techniques for real-time transmitter use&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&quot;https://ieeexplore.ieee.org/document/7444363&quot;&gt;Fast, momentum-aided optimization of transmitter amplifier load impedance and input power for cognitive radio using the power smith tube&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&quot;https://ieeexplore.ieee.org/document/7120398&quot;&gt;The Power Smith Tube: Joint optimization of power amplifier input power and load impedance for power-added efficiency and adjacent-channel power ratio&lt;/a&gt; &lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Fallas Automation Case Packaging Robotics]]></title><description><![CDATA[As a Controls Engineer at Fallas Automation Joseph designed, assembled and debugged large multi-million dollar packaging machinery.Fallas…]]></description><link>https://josephbarkate.com/Fallas-Automation/</link><guid isPermaLink="false">https://josephbarkate.com/Fallas-Automation/</guid><pubDate>Wed, 01 May 2013 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;As a Controls Engineer at &lt;a href=&quot;https://www.fallasautomation.com/machinery.html&quot;&gt;Fallas Automation&lt;/a&gt; Joseph designed, assembled and debugged large multi-million dollar packaging machinery.&lt;/p&gt;
+&lt;li&gt;&lt;strong&gt;Thesis&lt;/strong&gt;: &lt;a href=&quot;https://pqdtopen.proquest.com/doc/1805168297.html?FMT=ABS&quot;&gt;Algorithms for Fast Power Amplifier Load Impedance and Input Power Optimization&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ieeexplore.ieee.org/document/7472983&quot;&gt;Fast, Simultaneous Optimization of Power Amplifier Input Power and Load Impedance for Power-Added Efficiency and Adjacent-Channel Power Ratio Using the Power Smith Tube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ieeexplore.ieee.org/document/7577485&quot;&gt;Comparison of multidimensional circuit optimization techniques for real-time transmitter use&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ieeexplore.ieee.org/document/7444363&quot;&gt;Fast, momentum-aided optimization of transmitter amplifier load impedance and input power for cognitive radio using the power smith tube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ieeexplore.ieee.org/document/7120398&quot;&gt;The Power Smith Tube: Joint optimization of power amplifier input power and load impedance for power-added efficiency and adjacent-channel power ratio&lt;/a&gt; &lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Fallas Automation Case Packaging Robotics]]></title><description><![CDATA[As a Controls Engineer at Fallas Automation Joseph designed, assembled and debugged large multi-million dollar packaging machinery.  Fallas…]]></description><link>https://josephbarkate.com/Fallas-Automation/</link><guid isPermaLink="false">https://josephbarkate.com/Fallas-Automation/</guid><pubDate>Wed, 01 May 2013 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;As a Controls Engineer at &lt;a href=&quot;https://www.fallasautomation.com/machinery.html&quot;&gt;Fallas Automation&lt;/a&gt; Joseph designed, assembled and debugged large multi-million dollar packaging machinery.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/dbea90bebca4e551fe7a1f544ba2cb22/67d4f/machinery_r700.jpg&quot;
+    href=&quot;/static/dbea90bebca4e551fe7a1f544ba2cb22/29d31/machinery_r700.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -414,17 +467,17 @@
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 57.14285714285714%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEDAgT/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAHjcNiJh//EABkQAQACAwAAAAAAAAAAAAAAAAECEBEiQf/aAAgBAQABBQINeyDI3//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABcQAAMBAAAAAAAAAAAAAAAAAAEQICH/2gAIAQEABj8CWGP/xAAbEAADAAIDAAAAAAAAAAAAAAAAARExQRAhUf/aAAgBAQABPyHruKv1EkPGzAA5bG+P/9oADAMBAAIAAwAAABBjz//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABwQAQADAAIDAAAAAAAAAAAAAAEAESExcUFhgf/aAAgBAQABPxBwSPirnca9OPA+wwUCXXFephCDuJXMXZ//2Q==&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 57.00000000000001%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEDAgT/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAHjcNiJh//EABkQAQACAwAAAAAAAAAAAAAAAAECEBEiQf/aAAgBAQABBQIjr2QZG//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABcQAQADAAAAAAAAAAAAAAAAAAEQICH/2gAIAQEABj8CIxp//8QAGxABAAICAwAAAAAAAAAAAAAAAQAREEEhMWH/2gAIAQEAAT8h1Rb5Kqj1AcCMbi4//9oADAMBAAIAAwAAABDgz//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABwQAQACAgMBAAAAAAAAAAAAAAEAESFRMUFhcf/aAAgBAQABPxBhCzsVpX2JOnfBfsIWBLeqdTBCIlcxcz//2Q==&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;unsplash.com&quot;
         title=&quot;&quot;
-        src=&quot;/static/dbea90bebca4e551fe7a1f544ba2cb22/67d4f/machinery_r700.jpg&quot;
-        srcset=&quot;/static/dbea90bebca4e551fe7a1f544ba2cb22/f544b/machinery_r700.jpg 200w,
-/static/dbea90bebca4e551fe7a1f544ba2cb22/41689/machinery_r700.jpg 400w,
-/static/dbea90bebca4e551fe7a1f544ba2cb22/67d4f/machinery_r700.jpg 700w&quot;
+        src=&quot;/static/dbea90bebca4e551fe7a1f544ba2cb22/29d31/machinery_r700.jpg&quot;
+        srcset=&quot;/static/dbea90bebca4e551fe7a1f544ba2cb22/e07e9/machinery_r700.jpg 200w,
+/static/dbea90bebca4e551fe7a1f544ba2cb22/066f9/machinery_r700.jpg 400w,
+/static/dbea90bebca4e551fe7a1f544ba2cb22/29d31/machinery_r700.jpg 700w&quot;
         sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
       /&gt;
     &lt;/span&gt;
@@ -461,7 +514,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/69657d5d9f9e2a2aa0aa1c3e268ce4a1/45751/photo-1490474418585-ba9bad8fd0ea.jpg&quot;
+    href=&quot;/static/69657d5d9f9e2a2aa0aa1c3e268ce4a1/c58a3/photo-1490474418585-ba9bad8fd0ea.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -473,19 +526,19 @@
   &gt;
     &lt;span
       class=&quot;gatsby-resp-image-background-image&quot;
-      style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAC/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgAB/9oADAMBAAIQAxAAAAHE42Q40x//xAAaEAACAgMAAAAAAAAAAAAAAAABAgMhBBEi/9oACAEBAAEFAkjYKVYqSN4twz8sxv8A/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oACAEDAQE/AciP/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oACAECAQE/Adqv/8QAHhAAAgEDBQAAAAAAAAAAAAAAAAECEBEhEjEyQdH/2gAIAQEABj8C1S4kntY9M9YE1T//xAAdEAADAAEFAQAAAAAAAAAAAAAAARGBITFBYXHB/9oACAEBAAE/IWLQZZGAnEjbk10G9x4E2lavwo8P/9oADAMBAAIAAwAAABCMP//EABYRAQEBAAAAAAAAAAAAAAAAAAEAMf/aAAgBAwEBPxBAyZ//xAAXEQADAQAAAAAAAAAAAAAAAAAAAREh/9oACAECAQE/EFq0WD//xAAcEAEAAgIDAQAAAAAAAAAAAAABESEAUTFBYaH/2gAIAQEAAT8QhoAZWUbDLWMAAyHDTE7zQHaWOKFFBe+0fcoAekfacanJkIJoWc//2Q==&apos;); background-size: cover; display: block;&quot;
+      style=&quot;padding-bottom: 66.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAABAv/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/aAAwDAQACEAMQAAAB5xxciRpj/8QAGhAAAgIDAAAAAAAAAAAAAAAAAQIDIQQRIv/aAAgBAQABBQJY2ClWKkjeNcM/LMb/AP/EABYRAQEBAAAAAAAAAAAAAAAAABEAAf/aAAgBAwEBPwHAi//EABYRAAMAAAAAAAAAAAAAAAAAAAEQEf/aAAgBAgEBPwE1f//EABwQAAEEAwEAAAAAAAAAAAAAAAABAhExEFFxIf/aAAgBAQAGPwKXUOWoNdPeCRrH/8QAHBAAAwACAwEAAAAAAAAAAAAAAAERITFBYYGR/9oACAEBAAE/IXrE/wBGEnEka5PoHntL4Jequnnwo7P/2gAMAwEAAgADAAAAEDw//8QAFhEBAQEAAAAAAAAAAAAAAAAAARAx/9oACAEDAQE/EEMR/8QAFhEBAQEAAAAAAAAAAAAAAAAAAREA/9oACAECAQE/EDVuHf/EABwQAQEAAgMBAQAAAAAAAAAAAAERADEhQVFhof/aAAgBAQABPxCXYz6hdh1ipsgANDTuX3LH1E5HFVCYvfafuMWFwRxeGvMgBB0WzP/Z&apos;); background-size: cover; display: block;&quot;
     &gt;
       &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
         alt=&quot;unsplash.com&quot;
         title=&quot;&quot;
-        src=&quot;/static/69657d5d9f9e2a2aa0aa1c3e268ce4a1/a296c/photo-1490474418585-ba9bad8fd0ea.jpg&quot;
-        srcset=&quot;/static/69657d5d9f9e2a2aa0aa1c3e268ce4a1/f544b/photo-1490474418585-ba9bad8fd0ea.jpg 200w,
-/static/69657d5d9f9e2a2aa0aa1c3e268ce4a1/41689/photo-1490474418585-ba9bad8fd0ea.jpg 400w,
-/static/69657d5d9f9e2a2aa0aa1c3e268ce4a1/a296c/photo-1490474418585-ba9bad8fd0ea.jpg 800w,
-/static/69657d5d9f9e2a2aa0aa1c3e268ce4a1/c35de/photo-1490474418585-ba9bad8fd0ea.jpg 1200w,
-/static/69657d5d9f9e2a2aa0aa1c3e268ce4a1/45751/photo-1490474418585-ba9bad8fd0ea.jpg 1500w&quot;
+        src=&quot;/static/69657d5d9f9e2a2aa0aa1c3e268ce4a1/4b190/photo-1490474418585-ba9bad8fd0ea.jpg&quot;
+        srcset=&quot;/static/69657d5d9f9e2a2aa0aa1c3e268ce4a1/e07e9/photo-1490474418585-ba9bad8fd0ea.jpg 200w,
+/static/69657d5d9f9e2a2aa0aa1c3e268ce4a1/066f9/photo-1490474418585-ba9bad8fd0ea.jpg 400w,
+/static/69657d5d9f9e2a2aa0aa1c3e268ce4a1/4b190/photo-1490474418585-ba9bad8fd0ea.jpg 800w,
+/static/69657d5d9f9e2a2aa0aa1c3e268ce4a1/e5166/photo-1490474418585-ba9bad8fd0ea.jpg 1200w,
+/static/69657d5d9f9e2a2aa0aa1c3e268ce4a1/c58a3/photo-1490474418585-ba9bad8fd0ea.jpg 1500w&quot;
         sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
       /&gt;
     &lt;/span&gt;
