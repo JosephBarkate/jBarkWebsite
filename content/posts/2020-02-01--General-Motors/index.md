@@ -1,7 +1,7 @@
 ---
-title: Dell Standard Price List
+title: General Motors DealerShip CMS
 category: "projects"
-cover: dell-spl.jpg
+cover: GM-HomePage.png
 author: Joseph Barkate
 ---
 
@@ -20,14 +20,6 @@ One of over 1000 websites created and managed on South American General Motors d
 *	Spearheaded sprint ceremonies and communication with project owners to define technical requirements.
 *	Assisted in new hire onboarding and the mentorship of Jr Developers through code reviews and paired programming.
 *	Production / release support for over 900 dealer web application across globe.
-
-
-
-```javascript
-import { Bootstrap } from "~bootstrap/scss/bootstrap";
-import { Translate } from "translate";
-import colors from "./colors";
-```
 
 ## Project Technologies / Products
 * Angular 13
