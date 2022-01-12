@@ -4,8 +4,6 @@
 
 Personal Development site used by Joseph Barkate
 
-The original version of the starter is preserved as the branch `gatsby-v1`.
-
 ## Features:
 
 - Easy editable content in **Markdown** files (posts, pages and parts)
@@ -44,17 +42,13 @@ More information on [GatsbyJS.org](https://www.gatsbyjs.org/tutorial/part-one)
 
 Install the starter using Gatsby Cli `gatsby new` command.
 
-```text
-gatsby new [NEW_SITE_DIRECTORY_FOR_YOUR_BLOG] https://github.com/greglobinski/gatsby-starter-hero-blog.git
-```
-
-Go into the newly created directory and run
+To run application, navigate into the root directory and run
 
 ```text
 gatsby develop
 ```
 
-to hot-serve your website on http://localhost:8000 or
+to hot-serve on http://localhost:8000 or
 
 ```text
 gatsby build
@@ -65,7 +59,7 @@ to create static site ready to host (/public).
 
 MIT License
 
-Copyright (c) 2017 gatsbyjs <br />Copyright (c) 2018 greg lobinski
+Copyright (c) 2017 gatsbyjs <br />
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
